@@ -1,1 +1,1 @@
-from costos import *
+from MathTravel.costos import *
