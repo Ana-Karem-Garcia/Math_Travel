@@ -1,1 +1,1 @@
-from costos_entre_ciudades import *
+from costos import *
