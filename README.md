@@ -11,8 +11,7 @@ Sea $G = (V, A)$ un grafo completo, donde $V = {1, 2, 3, ..., n}$ es el conjunto
 Por conveniencia nosotros definimos 
 $cost(x,y)=cost({x,y})$ si $x \neq y$ e $\infty$ si $x=y$.
 A cada arco $(i, j)$ se le asocia un valor no negativo $c_ij$ , que representa el coste de viajar del vértice $i$ al $j$.
-El objetivo del Problema del Agente Viajero es encontrar una ruta que, comenzando y terminando
-en una ciudad determinada, en este caso denotada por la ciudad $i$, pase una sola vez por cada una de las ciudades y minimice la distancia recorrida. Si se definen las variables dicotómicas de decisión $x_ij$ para todo $(i, j) ∈ A$, de forma que tomen el valor 1 si el arco $(i, j)$ forma parte de la solución y $04 en otro caso.
+El objetivo del Problema del Agente Viajero es encontrar una ruta que, comenzando y terminando en una ciudad determinada, en este caso denotada por la ciudad $i$, pase una sola vez por cada una de las ciudades y minimice el costo del recorrido. Si se definen las variables dicotómicas de decisión $x_ij$ para todo $(i, j) ∈ A$, de forma que tomen el valor 1 si el arco $(i, j)$ forma parte de la solución y $0$ en otro caso.
 
 ##
 ## Integrantes 
