@@ -12,4 +12,5 @@ Responde a la siguiente pregunta: dada una lista de ciudades y las distancias en
 - Ana Karem García Hernández
 
 ## Funciones importadas
-Una función que definimos fue `calcular_costo`, la cual calcula el costo entre dos ciudades
+1. `calcular_costo`, la cual calcula el costo entre dos ciudades
+2. `generar_matriz`, genera una matriz aleatoria de $nxn$ que consta de los precios entre ciudades
