@@ -9,7 +9,7 @@ Responde a la siguiente pregunta: dada una lista de ciudades y los costos entre 
 Plantaemos el problema del TSP enfocado en la teoria de grafos:
 Sea $G = (V, A)$ un grafo completo, donde $V = {1, 2, 3, ..., n}$ es el conjunto de vértices y $A$ es el conjunto de aristas. Los vértices $i = {2, 3, 4, ..., n}$ se corresponden con los nodos a visitar y el vértice 1 es el nodo de origen y destino.
 Por conveniencia nosotros definimos 
-https://latex.codecogs.com/svg.image?cost(x,y)=\left\{\begin{array}{lcc}cost(\left\{x,y\right\})&si&x\neq&space;y\\\\\infty&si&x=y\end{array}\right.
+$cost(x,y)=cost(\left\{x,y\right\})$ si $x \neq y$ y $\infty$ si $x=y$
 
 ##
 ## Integrantes 
