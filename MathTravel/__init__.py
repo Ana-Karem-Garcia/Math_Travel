@@ -1,2 +1,2 @@
-from MathTravel.untitled9 import *
+from MathTravel.costos import *
 from MathTravel.matrizaleatoria import *
