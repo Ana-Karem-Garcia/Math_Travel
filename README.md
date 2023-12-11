@@ -5,13 +5,13 @@ Python project in the LiMA where the problem of the traveling agent is solved.
 ## What does our project do?
 It answers the following question: given a list of cities and the costs between each pair of them, what is the shortest possible route that visits each city exactly once and at the end returns to the home city? The problem was first formulated in *1930* and is one of the most studied optimization problems. It is used as a test for many optimization methods. It consists of finding the shortest single path that, given a list of cities and the costs between them, visits all the cities only once and returns to the city of origin.
 ##
-## El Problema del Agente Viajero (TSP)
-Plantaemos el problema del TSP enfocado en la teoria de grafos:
-Sea $G = (V, A)$ un grafo completo, donde $V = {1, 2, 3, ..., n}$ es el conjunto de vértices y $A$ es el conjunto de aristas. Los vértices $i = {2, 3, 4, ..., n}$ se corresponden con los nodos a visitar y el vértice 1 es el nodo de origen y destino.
-Por conveniencia nosotros definimos 
-$cost(x,y)=cost({x,y})$ si $x \neq y$ e $\infty$ si $x=y$.
-A cada arco $(i, j)$ se le asocia un valor no negativo $c_ij$ , que representa el coste de viajar del vértice $i$ al $j$.
-El objetivo del Problema del Agente Viajero es encontrar una ruta que, comenzando y terminando en una ciudad determinada, en este caso denotada por la ciudad $i$, pase una sola vez por cada una de las ciudades y minimice el costo del recorrido. Si se definen las variables dicotómicas de decisión $x_ij$ para todo $(i, j) ∈ A$, de forma que tomen el valor 1 si el arco $(i, j)$ forma parte de la solución y $0$ en otro caso.
+## The Travel Agent Problem(TSP)
+Let's plant the problem of TSP focused on graph theory:
+Let $G = (V, A)$ be a complete graph, where $V = {1, 2, 3, ..., n}$ is the set of vertices and $A$ is the set of edges. The vertices $i = {2, 3, 4, ..., n}$ correspond to the nodes to be visited, and vertex 1 is the source and destination node.
+For convenience we define
+$cost(x,y)=cost({x,y})$ if $x neq y$ e $infty$ if $x=y$.
+Each $(i, j)$ arc is associated with a non-negative value $c_ij$ , which represents the cost of traveling from vertex $i$ to $j$.
+The goal of the Travel Agent Problem is to find a route that, starting and ending in a given city, in this case denoted by the city $i$, passes only once through each of the cities and minimizes the cost of the tour.  If the dichotomous decision variables $x_ij$ are defined for all $(i, j) ∈ A$, so that they take the value 1 if the arc $(i, j)$ is part of the solution and $0$ otherwise.
 
 ##
 ## Integrantes 
