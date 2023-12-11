@@ -1,5 +1,5 @@
 # Math_Travel
-Proyecto de python en la LiMA donde se resuleve el problema del agente viajero.
+Python project in the LiMA where the problem of the traveling agent is solved.
 
 ##
 ## ¿Qué hace nuestro proyecto?
