@@ -14,12 +14,12 @@ Each $(i, j)$ arc is associated with a non-negative value $c_ij$ , which represe
 The goal of the Travel Agent Problem is to find a route that, starting and ending in a given city, in this case denoted by the city $i$, passes only once through each of the cities and minimizes the cost of the tour.  If the dichotomous decision variables $x_ij$ are defined for all $(i, j) ∈ A$, so that they take the value 1 if the arc $(i, j)$ is part of the solution and $0$ otherwise.
 
 ##
-## Integrantes 
+## Members 
 - Claudia Gisell Salas Cervantes 
 - Tamara Popoca Alvarado
 - Iván Delgado Carmona
 - Ana Karem García Hernández
 
-## Funciones importadas
-1. `calcular_costo`, la cual calcula el costo entre dos ciudades
-2. `generar_matriz`, genera una matriz aleatoria de $nxn$ que consta de los precios entre ciudades
+## Imported Functions
+1. `calcular_costo`, which calculates the cost between two cities.
+2. `generar_matriz`, generates a random $nxn$ matrix consisting of cross-city prices.
