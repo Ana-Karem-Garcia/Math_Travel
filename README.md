@@ -2,8 +2,8 @@
 Python project in the LiMA where the problem of the traveling agent is solved.
 
 ##
-## ¿Qué hace nuestro proyecto?
-Responde a la siguiente pregunta: dada una lista de ciudades y los costos entre cada par de ellas, ¿cuál es la ruta más corta posible que visita cada ciudad exactamente una vez y al finalizar regresa a la ciudad origen?. El problema fue formulado por primera vez en *1930* y es uno de los problemas de optimización más estudiados. Es usado como prueba para muchos métodos de optimización. Consiste en encontrar el camino único más corto que, dada una lista de ciudades y los costos entre ellas, visita todas las ciudades una sola vez y regresa a la ciudad de origen
+## What does our project do?
+It answers the following question: given a list of cities and the costs between each pair of them, what is the shortest possible route that visits each city exactly once and at the end returns to the home city? The problem was first formulated in *1930* and is one of the most studied optimization problems. It is used as a test for many optimization methods. It consists of finding the shortest single path that, given a list of cities and the costs between them, visits all the cities only once and returns to the city of origin.
 ##
 ## El Problema del Agente Viajero (TSP)
 Plantaemos el problema del TSP enfocado en la teoria de grafos:
