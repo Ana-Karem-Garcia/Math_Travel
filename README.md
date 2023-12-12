@@ -26,7 +26,7 @@ The goal of the Travel Agent Problem is to find a route that, starting and endin
 
 ##
 # Github profiles
-| [<img src="https://avatars.githubusercontent.com/u/141759953?v=4" width=100 col=red><br><sub>Claudia Gisell </sub>](https://github.com/Claudia-Salas) |  [<img src="https://avatars.githubusercontent.com/u/142260985?v=4" width=100><br><sub>Ana Karem </sub>](https://github.com/Ana-Karem-Garcia) |  [<img src="https://avatars.githubusercontent.com/u/141845372?v=4" width=100><br><sub>Tamara</sub>](https://github.com/Tamara0409)  |[<img src="https://avatars.githubusercontent.com/u/142260687?v=4" width=100><br><sub>Iván</sub>](https://github.com/ivan-math) |
+| [<img src="https://avatars.githubusercontent.com/u/141759953?v=4" width=100><br><sub>Claudia Gisell </sub>](https://github.com/Claudia-Salas) |  [<img src="https://avatars.githubusercontent.com/u/142260985?v=4" width=100><br><sub>Ana Karem </sub>](https://github.com/Ana-Karem-Garcia) |  [<img src="https://avatars.githubusercontent.com/u/141845372?v=4" width=100><br><sub>Tamara</sub>](https://github.com/Tamara0409)  |[<img src="https://avatars.githubusercontent.com/u/142260687?v=4" width=100><br><sub>Iván</sub>](https://github.com/ivan-math) |
 | :---: | :---: | :---: |  :---: | 
 
 
