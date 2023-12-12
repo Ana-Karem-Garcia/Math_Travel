@@ -17,7 +17,7 @@ The goal of the Travel Agent Problem is to find a route that, starting and endin
 ##
 # Members 
 - Salas Cervantes Claudia Gisell
-- Tamara Popoca Alvarado
+- Popoca Alvarado Tamara 
 - Iván Delgado Carmona
 - Ana Karem García Hernández
 
