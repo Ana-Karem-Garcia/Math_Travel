@@ -21,7 +21,7 @@ The goal of the Travel Agent Problem is to find a route that, starting and endin
 - Ana Karem García Hernández
 
 # Imported Functions
-1. `generar_matriz`, generates a random $nxn$ matrix consisting of cross-city prices.
+1. `generar_matriz`, generates a random $nxn$ matrix with zeros on the diagonal consisting of cross-city prices.
 2. `agente_viajero_poda`, main function of the agent journey and the cost it accumulates.
 
 ##
