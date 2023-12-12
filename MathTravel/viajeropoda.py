@@ -9,6 +9,8 @@ def agente_viajero_poda(n, matriz_costo):
     #almacena el mejor costo
     opt_ruta = ()
     #almacena la mejor ruta encontrada
+    def calcular_costo(ciudad1, ciudad2):
+        return matriz_costo[ciudad1][ciudad2]
 
     def _av_aux(ruta, visitadas, costo_actual):
       #ruta es una tupla que representa la ruta actual que ha sido recorrida
