@@ -1,5 +1,6 @@
 # Math_Travel
 Python project in the LiMA where the problem of the traveling agent is solved.
+![](https://github.com/Ana-Karem-Garcia/Math_Travel/blob/main/Doc/Agente.jpeg)
 
 ##
 # What does our project do?
