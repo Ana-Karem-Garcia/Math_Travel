@@ -19,7 +19,7 @@ The goal of the Travel Agent Problem is to find a route that, starting and endin
 - Salas Cervantes Claudia Gisell
 - Popoca Alvarado Tamara 
 - Delgado Carmona Iván
-- Ana Karem García Hernández
+- García Hernández Ana Karem 
 
 # Imported Functions
 1. `generar_matriz`, generates a random $nxn$ matrix with zeros on the diagonal consisting of cross-city prices.
