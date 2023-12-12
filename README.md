@@ -28,5 +28,6 @@ The goal of the Travel Agent Problem is to find a route that, starting and endin
 # Perfil
 
 | [<img src="https://avatars.githubusercontent.com/u/141759953?v=4" width=115><br><sub>Claudia Gisell Salas Cervantes</sub>](https://github.com/Claudia-Salas) |  [<img src="https://avatars.githubusercontent.com/u/142260985?v=4" width=115><br><sub>Ana Karem García Hernández</sub>](https://github.com/Ana-Karem-Garcia) |  [<img src="https://avatars.githubusercontent.com/u/141845372?v=4" width=115><br><sub>Tamara Popoca Alvarado</sub>](https://github.com/Tamara0409) |
+[<img src="https://avatars.githubusercontent.com/u/141845372?v=4" width=115><br><sub>Tamara Popoca Alvarado</sub>](https://github.com/Tamara0409) |
 | :---: | :---: | :---: |
 
