@@ -10,4 +10,5 @@ setup(name='mathtravel',
       author_email='ga382900@uaeh, de375363@uaeh, sa450250@uaeh, po357607@uaeh',
       license='MIT',
       packages=['mathtravel'],
+      install_requires=['numpy'],
       zip_safe=False)
