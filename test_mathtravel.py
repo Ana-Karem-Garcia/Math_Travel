@@ -2,8 +2,9 @@
 
 from mathtravel import agente_viajero_poda
 
-n = 10
-matriz_costo = [
+def test_poda():
+    """A test for the pide function"""
+    assert agente_viajero_poda(10,  [
 [0,58,72,55,45,64,62,79,39,66]
 ,[58,0,27,33,59,65,70,48,39,50]
 ,[72,27,0,46,52,44,21,40,62,89]
@@ -13,7 +14,4 @@ matriz_costo = [
 ,[62,70,21,66,72,89,0,56,53,66]
 ,[79,48,40,68,33,58,56,0,26,55]
 ,[39,39,62,56,52,54,53,26,0,56]
-,[66,50,89,75,18,38,66,55,56,0]]
-def test_poda():
-    """A test for the pide function"""
-    assert agente_viajero_poda(n, matriz_costo) == 315, (0, 6, 2, 1, 3, 5, 9, 4, 7, 8, 0)
+,[66,50,89,75,18,38,66,55,56,0]]) == 315, (0, 6, 2, 1, 3, 5, 9, 4, 7, 8, 0)
