@@ -1,6 +1,5 @@
 """Funcion que hace una matriz aleatoria"""
 
-pip show numpy
 pip install numpy
 import numpy as np
 
