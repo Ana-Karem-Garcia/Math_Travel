@@ -1,6 +1,7 @@
 """Funcion que hace una matriz aleatoria"""
 
 import numpy as np
+import ast
 
 def generar_matriz(ciudades, rango_inicio=10, rango_fin=100):
     """Crea una matriz aleatoria de costos"""
