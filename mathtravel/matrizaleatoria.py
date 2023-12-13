@@ -1,5 +1,6 @@
 """Funcion que hace una matriz aleatoria"""
 
+conda install numpy
 import numpy as np
 
 def generar_matriz(ciudades, rango_inicio=10, rango_fin=100):
