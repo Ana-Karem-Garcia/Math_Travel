@@ -1,3 +1,1 @@
-"""Documento de bibliotecas importadas"""
-
-import numpy as np
+numpy 
