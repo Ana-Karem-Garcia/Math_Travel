@@ -1,6 +1,5 @@
 """Funcion que hace una matriz aleatoria"""
 
-import ast
 import numpy as np
 
 def generar_matriz(ciudades, rango_inicio=10, rango_fin=100):
