@@ -1,6 +1,7 @@
 """Es la funcion principal del recorrido de agente y el costo que va acumulando"""
 
 def agente_viajero_poda(n, matriz_costo):
+    """Funcion principal del recorrido de agente y el costo que va acumulando"""
     opt_costo = None
     opt_ruta = ()
     def calcular_costo(ciudad1, ciudad2):
