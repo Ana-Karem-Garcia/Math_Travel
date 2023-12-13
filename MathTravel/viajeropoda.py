@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Es la funcion principal del recorrido de agente y el costo que va acumulando
 """
