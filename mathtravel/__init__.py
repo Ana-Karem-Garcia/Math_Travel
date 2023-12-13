@@ -1,3 +1,3 @@
-from MathTravel.matrizaleatoria import *
-from MathTravel.viajeropoda import *
-from MathTravel.impresion import *
+from mathtravel.matrizaleatoria import *
+from mathtravel.viajeropoda import *
+from mathtravel.impresion import *
