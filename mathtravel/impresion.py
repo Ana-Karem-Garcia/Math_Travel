@@ -1,6 +1,4 @@
-"""
-Funcion que imprime los resultados
-"""
+"""Funcion que imprime los resultados"""
 
 def imprime(matriz_costo,costo_optimo,ruta_optima):
     print("La matriz de costos entre ciudades es:")
