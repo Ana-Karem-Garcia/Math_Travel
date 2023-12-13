@@ -1,6 +1,8 @@
 """Función para crear una matriz aleatoria de costos"""
 
-import numpy as np
+pip install numpy
+
+import numpy 
 
 def generar_matriz(ciudades, rango_inicio=10, rango_fin=100):
     """Crea una matriz aleatoria de costos"""
